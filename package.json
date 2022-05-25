@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-spa",
+  "description": "React gatsby SPA",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop"
+  },
+  "dependencies": {
+    "firebase": "5.5.3",
+    "gatsby": "^2.0.0",
+    "gatsby-plugin-react-helmet": "^3.0.0",
+    "prop-types": "^15.6.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-firebaseui": "^3.1.2",
+    "react-helmet": "^5.2.0"
+  },
+  "license": "MIT",
+  "devDependencies": {}
+}
